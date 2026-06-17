@@ -1,0 +1,16 @@
+#head{
+    color: blue ;
+    font-style: italic;
+    font-family: algerian;
+    background-color: aliceblue;
+}
+
+#list-style{
+    color: red;
+    font-family: algerian;
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    
+}
